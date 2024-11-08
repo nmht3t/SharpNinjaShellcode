@@ -1,0 +1,8 @@
+C:\Users\MALDEV01\Desktop\reverse\SharpNinjaShellcode\SharpNinjaShellcode\obj\x64\Debug\SharpNinjaShellcode.csproj.AssemblyReference.cache
+C:\Users\MALDEV01\Desktop\reverse\SharpNinjaShellcode\SharpNinjaShellcode\obj\x64\Debug\SharpNinjaShellcode.csproj.SuggestedBindingRedirects.cache
+C:\Users\MALDEV01\Desktop\reverse\SharpNinjaShellcode\SharpNinjaShellcode\obj\x64\Debug\SharpNinjaShellcode.csproj.CoreCompileInputs.cache
+C:\Users\MALDEV01\Desktop\reverse\SharpNinjaShellcode\SharpNinjaShellcode\bin\x64\Debug\SharpNinjaShellcode.exe.config
+C:\Users\MALDEV01\Desktop\reverse\SharpNinjaShellcode\SharpNinjaShellcode\bin\x64\Debug\SharpNinjaShellcode.exe
+C:\Users\MALDEV01\Desktop\reverse\SharpNinjaShellcode\SharpNinjaShellcode\bin\x64\Debug\SharpNinjaShellcode.pdb
+C:\Users\MALDEV01\Desktop\reverse\SharpNinjaShellcode\SharpNinjaShellcode\obj\x64\Debug\SharpNinjaShellcode.exe
+C:\Users\MALDEV01\Desktop\reverse\SharpNinjaShellcode\SharpNinjaShellcode\obj\x64\Debug\SharpNinjaShellcode.pdb
