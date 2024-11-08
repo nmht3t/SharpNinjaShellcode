@@ -126,7 +126,6 @@ class SharpNinjaShellcode
         {
             byte[] chunk = shellcode.Skip(i).Take(chunkSize).ToArray();
 
-            // Ensure the chunk is exactly 6 bytes by padding with 0x00 if needed
             if (chunk.Length < chunkSize)
             {
                 Array.Resize(ref chunk, chunkSize);
@@ -141,7 +140,6 @@ class SharpNinjaShellcode
 
         macBuilder.AppendLine("};");
 
-        // Adding the deobfuscation function to convert MACArray back to the original byte array
         macBuilder.AppendLine();
         macBuilder.AppendLine("/* Deobfuscation Function */");
         macBuilder.AppendLine("static byte[] DeobfusMAC(string[] MACArray)");
