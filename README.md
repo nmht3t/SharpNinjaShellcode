@@ -1,0 +1,2 @@
+# SharpNinjaShellcode
+Obfuscate Your Shellcode
