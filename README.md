@@ -8,5 +8,3 @@ After obfuscating your shellcode, insert the obfuscated shellcode and its decryp
 
 # Profit
 ![image](https://github.com/user-attachments/assets/a53e4b78-2e58-43a0-ad41-a82a095fff4e)
-# Reference
-https://github.com/aahmad097/AlternativeShellcodeExec
